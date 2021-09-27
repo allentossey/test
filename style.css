@@ -1,0 +1,28 @@
+#nb,
+#hb {
+  background-color: #5856ce;
+  border: none;
+}
+
+#hero .title,
+#sr h4 {
+  color: #05034e;
+}
+#carousel {
+  height: 711px;
+  background: #ececf2;
+}
+.ch {
+  font-weight: 400;
+  color: #05034e;
+}
+#fin,
+#ms {
+  border-radius: 50%;
+}
+#carousel-btn {
+  width: 50px !important;
+  height: 50px !important;
+  border-radius: 50%;
+  color: #05034e;
+}
